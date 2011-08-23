@@ -1,3 +1,3 @@
 # Rails 3 tutorial
 
-First app 
+First app in tutorial
